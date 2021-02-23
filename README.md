@@ -1,1 +1,1 @@
-This is cibernike's git project!
+trash This is cibernike's git project!
